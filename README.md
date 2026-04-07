@@ -97,7 +97,6 @@ network-port-scanner/
 ├── main.py                   # Entry point
 ├── requirements.txt          # Dependencies (empty - stdlib only)
 ├── README.md                 # This file
-├── BUILD_SUMMARY.md          # Build details
 ├── .gitignore               # Git ignore rules
 └── .gitattributes           # Line ending normalization
 ```
