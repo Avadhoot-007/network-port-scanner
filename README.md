@@ -158,5 +158,5 @@ Contributions welcome! Feel free to fork, submit issues, or suggest improvements
 ---
 
 **Version:** 1.0  
-**Author:** [Your Name](https://github.com/YOUR_USERNAME)  
+**Author:** [Avadhoot](https://github.com/Avadhoot-007)  
 **Last Updated:** April 2026
