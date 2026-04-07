@@ -1,0 +1,2 @@
+# Network Port Scanner
+# Uses only Python standard library - no external dependencies required
